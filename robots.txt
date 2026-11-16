@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forterieelectrician.ca/sitemap-index.xml
